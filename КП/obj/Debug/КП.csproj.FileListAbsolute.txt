@@ -1,0 +1,10 @@
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\bin\Debug\КП.exe.config
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\bin\Debug\КП.exe
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\bin\Debug\КП.pdb
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.csproj.AssemblyReference.cache
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.Form1.resources
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.Properties.Resources.resources
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.csproj.GenerateResource.cache
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.csproj.CoreCompileInputs.cache
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.exe
+C:\Users\valer\YandexDisk\Облако\Лера\case_средства\2021 - Лаб - CASE - АСУб\КП - UML\КП\КП\obj\Debug\КП.pdb
